@@ -63,7 +63,6 @@
 				
 				return $content;
 				
-				
 			}// End Method cbx_post_to_qrcode
 			
 			
